@@ -36,11 +36,11 @@ public class LA4a {
 			a = num1;
 			b = num2;
 			do {
-				r = a % b;
-				q = a / b;
-				a = b;
-				b = r;
-			}while (r != 0);
+				r = a % b;//calc remainder
+				q = a / b;//calc quotient
+				a = b;//a = b
+				b = r;//b = r
+			}while (r != 0);//when r = 0, print quotient (moved to value a)
 			return a;
 		}
 	}
