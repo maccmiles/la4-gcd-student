@@ -1,0 +1,7 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp1000.grading.LA4aGrading#testGCD: +50
+edu.wit.cs.comp1000.grading.LA4aGrading#testNegative: +20
+edu.wit.cs.comp1000.grading.LA4aGrading#testZero: +20
+edu.wit.cs.comp1000.grading.LA4aGrading#testProg: +10
